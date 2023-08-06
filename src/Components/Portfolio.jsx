@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Noted",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "a simple light markdown editor written in Python and PyQT5. PyQT is a library that is used to build GUI applications in Python using the Qt GUI framework.",
+    url: "https://github.com/tanthehack/noted",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Spotify Stats",
+    description: "A mini top artits app using the spotify API",
+    url: "https://github.com/tanthehack/spotify_stats",
   },
   {
-    title: "My Resume Site",
+    title: "As.Kee",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "As.Kee is a simple website that produces an artistic representation of pictures with ASCII characters.",
+    url: "https://askee.pages.dev/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Wordle Muddle",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A horrible wordle clone using Colorama, a Python module commonly used to 'color-ify' thy terminal.",
+    url: "https://github.com/tanthehack/wordle",
   },
 ];
 
